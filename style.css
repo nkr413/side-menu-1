@@ -5,7 +5,7 @@ button:focus {outline: none;}
 .header-block {
 	position: fixed;
 	width: 100%;
-	border-bottom: 2px solid green;
+	border-bottom: 2px solid transparent;
 	padding: 8px;
 	background: #333333;
 }
